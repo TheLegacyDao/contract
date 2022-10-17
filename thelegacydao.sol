@@ -1,9 +1,9 @@
 /*
 THELEGACYDAO
-https://twitter.com/Rias_SenpaiETH
-https://medium.com/@RiasGremoryETH/the-girl-with-the-red-hair-c050b5608b2b
-https://t.me/RiasGremoryPortal
-https://riassenpai.com
+https://twitter.com/THEDAOETH
+https://medium.com/
+https://t.me/thelegacydaoportal
+https://thelegacydao.com
 
 TOKENOMICS
 - 7% Buy
